@@ -1,0 +1,4 @@
+find kth largest/smallest element in the array with duplicates
+find the median of unsorted array without sorting 
+permutation ke question on number and string
+2d array mai ek postion se dusari postion par jane wale saare questions
